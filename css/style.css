@@ -1,0 +1,19 @@
+a:link {
+  color: rgb(70, 142, 250);
+  text-decoration: none;
+}
+a:visited {
+  color: brown;
+  text-decoration: none;
+}
+a:hover {
+  color: darkorange;
+  text-decoration: underline;
+}
+.nometec {
+  background-color: darkorange;
+  width: 200px;
+  font-size: 16px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(236, 233, 186);
+}
